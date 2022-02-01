@@ -4,7 +4,7 @@ http://stream.amrbd.com:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://tinyurl.com/pwntay2x",Ekattor TV (BDIX9)
 http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg",Shomoy TV (BDIX7)
-http://stream.amrbd.com:8082/Somoy-TV/index.m3u8
+http://live.flixhub.net/hls/somoy.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://dbcnews.tv/img/dbc.png",DBC News HD (BDIX7)
 http://stream.amrbd.com:8082/DBC-NEWS/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png",Channel I (BDIX7)
@@ -213,8 +213,8 @@ http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/9SYqIRU.png",ZEE TV HD (pk)
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/DsVRIof.jpg",Star Plus  (pk)
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/DsVRIof.jpg",Star Plus HD
+http://live.flixhub.net/hls/starplus.m3u8
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/NIfMrhI.png",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332",9XM
